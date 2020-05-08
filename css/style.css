@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.topbar {
+    background-color: #316dc3;
+}
+
+.tabshead a {
+    padding: 3px;
+    color: gray;
+    background-color: #f5f5f5;
+    border-radius: 0;
+    border: 1px solid black;
+    font-size: 14px;
+}
+
+.header {
+    background-color: #f7f8fa;
+}
+
+.details {
+    display: inline;
+}
+
+.details li {
+    display: inline;
+}
+
+.details li a {
+    margin: 3px 5px;
+    padding: 7px;
+    color: black;
+    border-radius: 6px;
+}
+
+.details li a:hover {
+    background-color: #316dc3;
+    text-decoration: none;
+    color: white;
+}
+
+.home {
+    background-color: #316dc3;
+    padding: 7px;
+    margin: 3px 5x;
+    color: white;
+    border-radius: 7px;
+}
+
+.home a {
+    color: white;
+}
+
+.news1 {
+    background-color: #316dc3;
+    color: white;
+}
+
+@media only screen and (max-width: 600px) {
+    .image1 img {
+        width: 500px;
+    }
+}
+
+.introcontainer {
+    background-color: #f7f8fa;
+}
+
+.counter {
+    background-color: #316dc3;
+}
+
+.counter p {
+    font-size: 17px;
+}
+
+.sadqadiv {
+    color: #316dc3;
+    background-color: white;
+    box-shadow: 5px 5px gray;
+    width: 500px;
+}
+
+.whatwedoing {
+    background-color: #f5f5f5;
+    align-items: center;
+}
+
+.events {
+    background-color: #f7f8fa;
+}
+
+.separators {
+    width: 70px;
+    height: 20px;
+    background-color: #427900;
+    display: block;
+}
+
+.missions marquee {
+    height: 200px;
+}
+
+.headoffice {
+    background-color: #25272e;
+}
+
+.headoffice a {
+    display: inline;
+}
+
+.ics {
+    color: green;
+    margin: 3px;
+}
+
+.icn {
+    margin: 3px;
+}
+
+.logicon {
+    color: white;
+    margin: 6px;
+}
+
+.logowhatsapp {
+    color: greenyellow;
+    margin: 6px;
+}
+
+.last {
+    background-color: #316dc3;
+}
+
+.paraend {
+    font-size: 13px;
+}
